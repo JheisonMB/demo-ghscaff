@@ -1,0 +1,10 @@
+[package]
+name = "demo-ghscaff"
+version = "0.1.0"
+edition = "2021"
+description = "a demo repository"
+license-file = "LICENSE"
+repository = "https://github.com/JheisonMB/demo-ghscaff"
+readme = "README.md"
+
+[dependencies]
